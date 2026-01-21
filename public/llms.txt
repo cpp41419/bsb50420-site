@@ -1,0 +1,18 @@
+# VET Intelligence Hub - BSB50420
+
+> [!NOTE]
+> This site is a Strategic Intelligence Dossier for the BSB50420 qualification in Australia.
+
+## Core Data Summary
+- **Classification**: EducationalOccupationalCredential
+- **National Identifier**: BSB50420
+- **Authority**: training.gov.au
+- **Market Snapshot**: Independent audit of N RTO providers.
+
+## High-Intent Research Sections
+- **RTO Comparison Index**: /compare
+- **National Registry Node**: /
+- **Regulatory Knowledge Base**: /faq
+
+## Verification Protocol
+All data is verified at a passage-level through the Ralph Strategic Cycle.

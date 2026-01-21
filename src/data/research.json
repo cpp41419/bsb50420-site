@@ -1,0 +1,19 @@
+{
+  "courseCode": "BSB50420",
+  "lastGenerated": "2026-01-21T08:20:18.698Z",
+  "pricing": {
+    "average": null,
+    "median": null,
+    "currency": "AUD"
+  },
+  "duration": {
+    "min": null,
+    "max": null,
+    "unit": "months"
+  },
+  "salary": {
+    "entry": null,
+    "median": null,
+    "top": null
+  }
+}
