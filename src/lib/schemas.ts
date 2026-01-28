@@ -13,15 +13,16 @@ export type FAQData = {
     rewritten_faqs?: RawFAQItem[];
     top_faqs?: RawFAQItem[];
     long_tail_opportunities?: RawFAQItem[];
+    longtail_opportunities?: RawFAQItem[];
     [key: string]: any;
 };
 export type ValidatedQualificationJSON = { [key: string]: any };
 
 // Safe parse helpers - absolute bypass
-export function parseFAQData(data: any): any {
-    return data;
+export function parseFAQData(data: any): FAQData {
+    return data as FAQData;
 }
 
-export function parseQualification(data: any): any {
-    return data;
+export function parseQualification(data: any): ValidatedQualificationJSON {
+    return data as ValidatedQualificationJSON;
 }
