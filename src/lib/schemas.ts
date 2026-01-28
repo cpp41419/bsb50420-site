@@ -7,6 +7,8 @@ export const RawFAQItemSchema = z.object({
     category: z.string().optional(),
     sentiment: z.string().optional(),
     original_source: z.string().optional(),
+    date: z.string().optional(),
+    intent: z.string().optional(),
 });
 
 export const LongTailOpportunitySchema = z.object({
@@ -17,6 +19,8 @@ export const LongTailOpportunitySchema = z.object({
     topic: z.string().optional(),
     intent_specificity: z.string().optional(),
     rationale: z.string().optional(),
+    date: z.string().optional(),
+    intent: z.string().optional(),
 }).refine(
     (data) => data.proposed_question || data.question,
     { message: "Either proposed_question or question is required" }
@@ -84,7 +88,7 @@ export const QualificationJSONSchema = z.object({
             })),
         }).optional(),
     }).optional(),
-    units: z.array(z.record(z.any())).optional(),
+    units: z.array(z.record(z.string(), z.any())).optional(),
 }).passthrough(); // Allow additional properties
 
 // Type exports
