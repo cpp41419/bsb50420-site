@@ -1,0 +1,89 @@
+[
+    {
+        "name": "Australian Institute of Management (AIM)",
+        "rto": "RTO #0049",
+        "rating": 4.9,
+        "price": "$2,950",
+        "duration": "12-18 Months",
+        "delivery": "Online / Virtual",
+        "features": [
+            "Interactive myAIM platform",
+            "Virtual Seminars",
+            "Assigned Personal Coach"
+        ],
+        "badges": [
+            "Industry Leader",
+            "Premium Support"
+        ],
+        "url": "https://www.aim.com.au"
+    },
+    {
+        "name": "Scope Training",
+        "rto": "RTO #40520",
+        "rating": 4.8,
+        "price": "$1,990",
+        "duration": "3-6 Months",
+        "delivery": "Blended / Practical",
+        "features": [
+            "Fast-track Option",
+            "Practical Focus",
+            "Engaging Facilitators"
+        ],
+        "badges": [
+            "Best Value",
+            "High Speed"
+        ],
+        "url": "https://www.scopetraining.com.au"
+    },
+    {
+        "name": "ARC Training",
+        "rto": "RTO #91007",
+        "rating": 4.7,
+        "price": "$2,450",
+        "duration": "6-12 Months",
+        "delivery": "Digital Classroom",
+        "features": [
+            "Self-directed components",
+            "Regular webinars",
+            "Portfolio based assessment"
+        ],
+        "badges": [
+            "Employer Trusted"
+        ],
+        "url": "https://www.arctraining.edu.au"
+    },
+    {
+        "name": "Right Choice Training",
+        "rto": "RTO #41234",
+        "rating": 4.6,
+        "price": "$1,450",
+        "duration": "Self-paced",
+        "delivery": "100% Online",
+        "features": [
+            "Instant Enrollment",
+            "PDF Learner Guides",
+            "Start Anytime"
+        ],
+        "badges": [
+            "Budget Choice"
+        ],
+        "url": "https://www.rightchoicetraining.com.au"
+    },
+    {
+        "name": "Australasian Leadership Academy",
+        "rto": "RTO #41012",
+        "rating": 4.8,
+        "price": "$2,800",
+        "duration": "12 Months",
+        "delivery": "Corporate / Online",
+        "features": [
+            "Corporate Contextualization",
+            "Advanced Leadership Frameworks",
+            "Industry Networking"
+        ],
+        "badges": [
+            "Corporate Focus"
+        ],
+        "url": "https://www.australasianleadership.com"
+    }
+]

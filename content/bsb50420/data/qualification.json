@@ -1,0 +1,32 @@
+{
+  "qualification": {
+    "code": "BSB50420",
+    "name": "Diploma of Leadership and Management",
+    "training_package": "BSB",
+    "status": "current",
+    "regulator": "ASQA"
+  },
+  "site_identity": {
+    "role": "independent qualification intelligence hub",
+    "scope": "australia",
+    "positioning": "Maps, verifies, and monitors all registered providers delivering BSB50420 Diploma of Leadership and Management"
+  },
+  "market_snapshot": {
+    "provider_count": 50,
+    "price_range_aud": {
+      "min": 2000,
+      "max": 5000
+    },
+    "risk_level": "moderate"
+  },
+  "primary_action": {
+    "type": "compare_providers",
+    "label": "Compare BSB50420 Providers"
+  },
+  "last_updated": "2026-01-09",
+  "data_source": "vetintel_market_watch",
+  "entity_graph": {
+    "@id": "https://bsb50420.com.au/#qualification",
+    "sameAs": "https://training.gov.au/Training/Details/BSB50420"
+  }
+}

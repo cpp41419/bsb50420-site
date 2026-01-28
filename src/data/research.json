@@ -1,0 +1,21 @@
+{
+    "courseCode": "UNKNOWN",
+    "lastGenerated": "2026-01-20T00:00:00.000Z",
+    "pricing": {
+        "min": null,
+        "max": null,
+        "average": null,
+        "median": null,
+        "currency": "AUD"
+    },
+    "duration": {
+        "min": null,
+        "max": null,
+        "unit": "months"
+    },
+    "salary": {
+        "entry": null,
+        "median": null,
+        "top": null
+    }
+}

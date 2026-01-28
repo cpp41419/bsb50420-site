@@ -1,0 +1,15 @@
+{
+    "name": "@cpp/ui",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "exports": {
+        ".": "./src/index.ts",
+        "./funding-calculator": "./src/components/FundingCalculator/index.ts",
+        "./industry-demand-widget": "./src/components/IndustryDemandWidget/index.ts"
+    },
+    "peerDependencies": {
+        "react": "^18 || ^19",
+        "react-dom": "^18 || ^19"
+    }
+}

@@ -1,0 +1,720 @@
+{
+  "metadata": {
+    "vertical": "BSB50420 - Diploma of Leadership and Management",
+    "extractionDate": "2026-01-13",
+    "totalScraped": 0,
+    "totalRewritten": 0,
+    "totalOpportunities": 100,
+    "courseCode": "BSB50420",
+    "engine": "Ralph-v2.3-Split-NonDestructive",
+    "title": "Diploma of Leadership and Management",
+    "lastMerged": "2026-01-27T15:13:02.609Z"
+  },
+  "rewritten_faqs": [],
+  "long_tail_opportunities": [
+    {
+      "topic": "Course Fees & Government Funding for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Course Fees & Government Funding for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Course Fees & Government Funding in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Course Fees & Government Funding. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Course Fees & Government Funding."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Study Duration & Flexibility for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Study Duration & Flexibility in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Study Duration & Flexibility. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Study Duration & Flexibility."
+    },
+    {
+      "topic": "Career Pathways & Salary for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Career Pathways & Salary for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Career Pathways & Salary in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Career Pathways & Salary. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Career Pathways & Salary."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Entry Requirements & Prerequisites for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Entry Requirements & Prerequisites in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Entry Requirements & Prerequisites. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Entry Requirements & Prerequisites."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Online vs Classroom Delivery for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Online vs Classroom Delivery in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Online vs Classroom Delivery. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Online vs Classroom Delivery."
+    },
+    {
+      "topic": "Student Support & Mentoring for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Student Support & Mentoring for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Student Support & Mentoring in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Student Support & Mentoring. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Student Support & Mentoring."
+    },
+    {
+      "topic": "Assessments & Work Placement for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "Assessments & Work Placement for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Assessments & Work Placement in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Assessments & Work Placement. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Assessments & Work Placement."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "RPL (Recognition of Prior Learning) for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about RPL (Recognition of Prior Learning) in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding RPL (Recognition of Prior Learning). Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding RPL (Recognition of Prior Learning)."
+    },
+    {
+      "topic": "Industry Accreditation for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Industry Accreditation for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Industry Accreditation in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Industry Accreditation. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Industry Accreditation."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Working Parents",
+      "intent_specificity": "high",
+      "proposed_question": "As a Working Parent, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Working Parents regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Working Parent segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Full-time Professionals",
+      "intent_specificity": "high",
+      "proposed_question": "As a Full-time Professional, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Full-time Professionals regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Full-time Professional segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Career Changers",
+      "intent_specificity": "high",
+      "proposed_question": "As a Career Changer, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Career Changers regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Career Changer segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for School Leavers",
+      "intent_specificity": "high",
+      "proposed_question": "As a School Leaver, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for School Leavers regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the School Leaver segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for International Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a International Student, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for International Students regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the International Student segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Regional/Remote Learners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Regional/Remote Learner, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Regional/Remote Learners regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Regional/Remote Learner segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Small Business Owners",
+      "intent_specificity": "high",
+      "proposed_question": "As a Small Business Owner, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Small Business Owners regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Small Business Owner segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Mature Age Students",
+      "intent_specificity": "high",
+      "proposed_question": "As a Mature Age Student, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Mature Age Students regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Mature Age Student segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Seeker of Promotions",
+      "intent_specificity": "high",
+      "proposed_question": "As a Seeker of Promotion, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Seeker of Promotions regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Seeker of Promotion segment regarding Enrolment & Payment Plans."
+    },
+    {
+      "topic": "Enrolment & Payment Plans for Unemployed/Returning to Works",
+      "intent_specificity": "high",
+      "proposed_question": "As a Unemployed/Returning to Work, what should I know about Enrolment & Payment Plans in the BSB50420 course?",
+      "proposed_answer": "The BSB50420 offers specific flexibility for Unemployed/Returning to Works regarding Enrolment & Payment Plans. Most providers allow tailored study plans to accommodate these needs.",
+      "rationale": "Addresses specific anxiety of the Unemployed/Returning to Work segment regarding Enrolment & Payment Plans."
+    }
+  ],
+  "entity_graph": {
+    "@id": "https://bsb50420.com.au/#qualification",
+    "sameAs": "https://training.gov.au/Training/Details/BSB50420"
+  }
+}

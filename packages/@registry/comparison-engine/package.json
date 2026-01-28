@@ -1,0 +1,9 @@
+{
+    "name": "@registry/comparison-engine",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "dependencies": {
+        "react": "^19.0.0",
+        "lucide-react": "^0.454.0"
+    }
+}
