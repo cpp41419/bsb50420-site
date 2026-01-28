@@ -84,13 +84,7 @@ export const QualificationJSONSchema = z.object({
             })),
         }).optional(),
     }).optional(),
-    units: z.array(z.object({
-        code: z.string(),
-        title: z.string(),
-        type: z.string(),
-        description: z.string(),
-        evidence: z.string(),
-    })).optional(),
+    units: z.array(z.record(z.any())).optional(),
 }).passthrough(); // Allow additional properties
 
 // Type exports
